@@ -3,7 +3,7 @@
 int main (){
     int operation, a, b;
    
-    printf ("Enter two integer value: ");
+    printf ("Enter two integer values: ");
     scanf ("%d %d", &a, &b);
     
     printf ("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n");
