@@ -1,5 +1,3 @@
-//SGPA Calculator
-
 #include <stdio.h>
 int main(){
     int course, credit, tCredit = 0;
